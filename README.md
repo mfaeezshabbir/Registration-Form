@@ -1,2 +1,2 @@
 # Registration Form
-This repo contains html &amp; css filles
+This repo contains the code for a beautiful registration form created using HTML and CSS
